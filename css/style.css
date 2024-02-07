@@ -1,0 +1,27 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    color: hsl(218, 44%, 22%);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.qr-container {
+    /* Centering QR code */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Media Queries */
+@media (max-width: 375px) {
+    /* Mobile specific styles */
+}
+
+@media (min-width: 1440px) {
+    /* Desktop specific styles */
+}
