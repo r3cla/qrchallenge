@@ -31,7 +31,7 @@ html, body {
 
 /* Text styles */
 .qr-text {
-    color: hsl(212, 45%, 89%);
+    color: hsl(220, 15%, 55%)
     margin-top: 0.5em; 
     margin-bottom: 0.5em; 
     font-size: 0.8em; /* Base font size */
