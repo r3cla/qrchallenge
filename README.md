@@ -70,7 +70,7 @@ Users should be able to:
 - Focusing on mobile first makes things alot easier for me.
 - How to set up github pages.
 
-- ### Useful resources
+## Useful resources
 
 - [Github Pages](https://www.pages.github.com) - This helped me easily deploy a live example of my website for free, straight from my github repo.
 - [W3 Validator](https://w3.org/) - Good for newbies like myself to quickly check for errors in your HTML and CSS.
