@@ -36,18 +36,19 @@ Users should be able to:
 ## My process
 
 ### Planning
-- I started by analyzing the design files and style guide provided in the Frontend Mentor challenge.
-- I planned the layout structure, deciding to use Flexbox for easy centering and alignment.
+- I went over the design files to understand how the end result of the page should look.
+- I planned the layout, deciding to use Flexbox for easy centering and alignment.
 
 ### Development
-- I began with creating the basic HTML structure, ensuring it was semantically correct.
+- I began with creating the basic HTML structure.
 - Next, I linked the Google Font (Outfit) and set up the base styles in my CSS file (`style.css`).
-- I then focused on styling the QR code component, starting with mobile dimensions as per the mobile-first approach.
-- After getting the mobile layout right, I used media queries to adjust the layout for desktop dimensions.
+- I then focused on styling the QR code component, focusing on mobile dimensions.
+- After getting the mobile layout right, I used media queries to adjust the layout for desktop dimensions, which admittedly not many were required, i only changed the font size for the footer slightly.
 
 ### Testing
 - I tested the layout using firefox responsive design mode to view in different screen sizes.
-- I also validated my HTML code using w3.org.
+- I also viewed the website natively using my desktop PC and mobile phone.
+- I validated my HTML and CSS code using w3.org. While not necessary, I think it can be useful for newbies.
 
 ### Reflection
 - This project was a great way to hone my skills. I look forward to completing more challenges in the near future.
