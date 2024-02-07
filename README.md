@@ -78,6 +78,6 @@ Users should be able to:
 - [ChatGPT](https://openai.com) - Great for proof reading and finding any sneaky problems within your code. Also helpful for providing a starting point, so long as you understand the code it is outputting.
 
 ## Author
-
-- Github - [r3cla](https://www.r3cla.github.io)
-- Frontend - [@r3cla](https://www.frontendmentor.io/profile/r3cla)
+### Nathan Addison, aka
+- GitHub - [r3cla](https://www.github.com/r3cla)
+- Frontend Mentor - [@r3cla](https://www.frontendmentor.io/profile/r3cla)
