@@ -64,7 +64,7 @@ Users should be able to:
 - Flexbox - for creating a flexible and responsive layout.
 - Visual Studio Code - as the code editor to write and manage the project code.
 - Github Pages - For deploying the live example.
-- Mobile-first design approach - starting the design for smaller screens and scaling up for larger screens.
+- Mobile-first design approach - starting the design for smaller screens and scaling up for larger screens if necessary (it wasn't, really).
 
 ### What I learned
 - Focusing on mobile first makes things alot easier for me.
