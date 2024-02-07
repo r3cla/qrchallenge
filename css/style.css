@@ -13,13 +13,13 @@ html, body {
 /* Card styles */
 .card {
     background-color: hsl(0, 0%, 100%);
-    border-radius: 20px; /* Adjust for desired curvature */
-    padding: 1em; /* Spacing inside the card */
+    border-radius: 20px; 
+    padding: 1em; /* Space inside the card */
     text-align: center;
     max-width: 375px; /* Width for mobile */
-    box-sizing: border-box; /* Includes padding in width calculation */
-    margin: 0 1em; /* Horizontal margin for smaller devices */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Subtle shadow for depth */
+    box-sizing: border-box; 
+    margin: 0 1em; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
 }
 
 /* QR Code image styles */
@@ -31,28 +31,21 @@ html, body {
 
 /* Text styles */
 .qr-text {
-    color: hsl(218, 44%, 22%);
-    margin-top: 0.5em; /* Space above the text */
-    margin-bottom: 0.5em; /* Space below the text */
+    color: hsl(212, 45%, 89%);
+    margin-top: 0.5em; 
+    margin-bottom: 0.5em; 
     font-size: 0.8em; /* Base font size */
-    line-height: 1.5; /* Line height for better readability */
+    line-height: 1.5; 
 }
 
-/* Desktop styles */
-@media (min-width: 1440px) {
-    .card {
-        max-width: 1440px; /* Width for desktop */
-        padding: 2em; /* Increase padding for larger screens */
-    }
-
-    /* Optionally adjust font size for desktop */
-    .qr-text {
-        font-size: 1em; /* Larger font size for desktop */
-    }
+.qr-text-title {
+    color: hsl(218, 44%, 22%);
+    margin-top: 0.5em; 
+    margin-bottom: 0.5em; 
+    font-size: 0.8em; /* Base font size */
+    line-height: 1.5; 
+    font-weight: bold;
 }
-    .attribution {
-        font-size: 0.6em;
-    }
 
 .attribution {
     font-size: 0.7em;
@@ -60,16 +53,34 @@ html, body {
     position: absolute;
     bottom: 0;
     width: 100%;
-    color: hsl(220, 15%, 55%); /* Grayish blue as per your style guide */
-    background-color: hsl(0, 0%, 100%); /* White background */
-    padding: 1em; /* Padding around the text */
+    color: hsl(220, 15%, 55%); 
+    background-color: hsl(0, 0%, 100%); 
+    padding: 1em; 
   }
   
   .attribution a {
-    color: hsl(218, 44%, 22%); /* Dark blue as per your style guide */
+    color: hsl(218, 44%, 22%); 
     text-decoration: none;
   }
   
   .attribution a:hover {
     text-decoration: underline;
   }
+
+  /*--------------------------*/
+  /* Desktop specific styles */
+  /*------------------------*/
+
+@media (min-width: 1440px) {
+    .card {
+        max-width: 1440px; /* Width for desktop */
+        padding: 2em; 
+    }
+
+    .qr-text {
+        font-size: 1em; 
+    }
+}
+    .attribution {
+        font-size: 0.6em;
+    }
