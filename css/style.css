@@ -78,9 +78,14 @@ html, body {
     }
 
     .qr-text {
-        font-size: 1em; 
+        font-size: 0.9em; 
     }
-}
+
+    .qr-text-title {
+        font-size: 1em;
+    }
+
     .attribution {
         font-size: 0.6em;
     }
+}
