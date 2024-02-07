@@ -74,6 +74,6 @@ Users should be able to:
 
 - [Github Pages](https://www.pages.github.com) - This helped me easily deploy a live example of my website for free, straight from my github repo.
 - [W3 Validator](https://w3.org/) - Good for newbies like myself to quickly check for errors in your HTML and CSS.
-- [StackOverflow](https://stackoverflow.com/) - Great for newbies like myself needing help to troubleshoot code.
+- [StackOverflow](https://stackoverflow.com/) - Great for asking questions and getting help to troubleshoot your code.
 - [ChatGPT](https://openai.com) - Great for proof reading and finding any sneaky problems within your code. Also helpful for providing a starting point, so long as you understand the code it is outputting.
 
