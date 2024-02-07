@@ -73,7 +73,7 @@ Users should be able to:
 ## Useful resources
 
 - [Github Pages](https://www.pages.github.com) - This helped me easily deploy a live example of my website for free, straight from my github repo.
-- [W3 Validator](https://w3.org/) - Good for newbies like myself to quickly check for errors in your HTML and CSS.
+- [W3 Validator](https://w3.org/) - Good for spotting common problems in your HTML and CSS code.
 - [StackOverflow](https://stackoverflow.com/) - Great for asking questions and getting help to troubleshoot your code.
 - [ChatGPT](https://openai.com) - Great for proof reading and finding any sneaky problems within your code. Also helpful for providing a starting point, so long as you understand the code it is outputting.
 
