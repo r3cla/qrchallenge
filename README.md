@@ -67,7 +67,7 @@ Users should be able to:
 - Mobile-first design approach - starting the design for smaller screens and scaling up for larger screens if necessary (it wasn't, really).
 
 ### What I learned
-- Focusing on mobile first makes things alot easier for me.
+- Focusing on mobile dimensions first and working your way up from there (if needed).
 - How to set up github pages.
 
 ## Useful resources
