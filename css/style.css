@@ -73,14 +73,6 @@ html, body {
 
 @media (min-width: 1440px) {
 
-    .qr-text {
-        font-size: 1.2em; 
-    }
-
-    .qr-text-title {
-        font-size: 1.5em;
-    }
-
     .attribution {
         font-size: 0.7em;
     }
