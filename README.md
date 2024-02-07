@@ -22,16 +22,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Users should be able to:
 
-- View the optimal layout for the component depending on their device's screen size
+- View the QRCode in desktop and mobile view.
 
 ### Screenshot
 
-![Screenshot of the QR code component](./screenshot.jpg)
+![Screenshot of the QR code component](/images/screenshot-qrchallenge.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/r3cla/qrchallenge)
-- Live Site URL: [Add live site URL here](https://r3cla.github.io/qrchallenge)
+- [Git Repo](https://github.com/r3cla/qrchallenge)
+- [Live Site](https://r3cla.github.io/qrchallenge)
 
 ## My process
 
@@ -50,8 +50,7 @@ Users should be able to:
 - I also validated my HTML code using w3.org.
 
 ### Reflection
-- This project was a great opportunity to practice my CSS layout skills, particularly with Flexbox and responsive design.
-- I learned the importance of mobile-first design and how it simplifies the process of making a website responsive.
+- This project was a great way to hone my skills. I look forward to completing more challenges in the near future.
 
 ### Future Improvements
 - As I continue to grow and develop my skills, I am planning to delve into more advanced and modern web technologies such as React and Styled-Components.
@@ -69,3 +68,11 @@ Users should be able to:
 ### What I learned
 - Focusing on mobile first makes things alot easier for me.
 - How to set up github pages.
+
+- ### Useful resources
+
+- [Github Pages](https://www.pages.github.com) - This helped me easily deploy a live example of my website for free, straight from my github repo.
+- [W3 Validator](https://w3.org/) - Good for newbies like myself to quickly check for errors in your HTML and CSS.
+- [StackOverflow](https://stackoverflow.com/) - Great for newbies like myself needing help to troubleshoot code.
+- [ChatGPT](https://openai.com) - Great for proof reading and finding any sneaky problems within your code. Also helpful for providing a starting point, so long as you understand the code it is outputting.
+
