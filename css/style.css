@@ -50,3 +50,26 @@ html, body {
         font-size: 1em; /* Larger font size for desktop */
     }
 }
+    .attribution {
+        font-size: 0.6em;
+    }
+
+.attribution {
+    font-size: 0.7em;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    color: hsl(220, 15%, 55%); /* Grayish blue as per your style guide */
+    background-color: hsl(0, 0%, 100%); /* White background */
+    padding: 1em; /* Padding around the text */
+  }
+  
+  .attribution a {
+    color: hsl(218, 44%, 22%); /* Dark blue as per your style guide */
+    text-decoration: none;
+  }
+  
+  .attribution a:hover {
+    text-decoration: underline;
+  }
