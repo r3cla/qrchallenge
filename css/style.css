@@ -34,7 +34,7 @@ html, body {
     color: hsl(220, 15%, 55%)
     margin-top: 0.5em; 
     margin-bottom: 0.5em; 
-    font-size: 1.2em; /* Base font size */
+    font-size: 1.1em; /* Base font size */
     line-height: 1.5; 
 }
 
@@ -72,10 +72,6 @@ html, body {
   /*------------------------*/
 
 @media (min-width: 1440px) {
-    .card {
-        max-width: 1440px; /* Width for desktop */
-        padding: 2em; 
-    }
 
     .qr-text {
         font-size: 1.2em; 
