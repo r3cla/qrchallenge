@@ -12,7 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+- [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -77,3 +77,7 @@ Users should be able to:
 - [StackOverflow](https://stackoverflow.com/) - Great for asking questions and getting help to troubleshoot your code.
 - [ChatGPT](https://openai.com) - Great for proof reading and finding any sneaky problems within your code. Also helpful for providing a starting point, so long as you understand the code it is outputting.
 
+## Author
+
+- Github - [r3cla](https://www.r3cla.github.io)
+- Frontend - [@r3cla](https://www.frontendmentor.io/profile/r3cla)
