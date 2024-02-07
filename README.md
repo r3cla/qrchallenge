@@ -59,7 +59,7 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup - for structuring the content of the webpage.
+- HTML5 - for structuring the content of the webpage.
 - CSS custom properties - for defining reusable variables for colors, font sizes, etc.
 - Flexbox - for creating a flexible and responsive layout.
 - Visual Studio Code - as the code editor to write and manage the project code.
