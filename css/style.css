@@ -1,13 +1,16 @@
+html, body {
+    height: 100%; /* Full height */
+    margin: 0;
+    padding: 0;
+}
+
 body {
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
     font-family: 'Outfit', sans-serif;
     background-color: hsl(212, 45%, 89%);
     color: hsl(218, 44%, 22%);
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
 }
 
 .qr-container {
@@ -17,11 +20,26 @@ body {
     align-items: center;
 }
 
-/* Media Queries */
+.qr-container img {
+    max-width: 100%; /* Ensures image is not larger than its container */
+    height: auto; /* Maintain aspect ratio */
+    /* Adjust size as needed */
+}
+
+/*------------------*/
+/*--MEDIA QUERIES--*/
+/*----------------*/
+
 @media (max-width: 375px) {
     /* Mobile specific styles */
+    .qr-container img {
+        width: 80%; 
+    }
 }
 
 @media (min-width: 1440px) {
     /* Desktop specific styles */
+    .qr-container img {
+        width: 30%;
+    }
 }
