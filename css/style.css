@@ -34,7 +34,7 @@ html, body {
     color: hsl(220, 15%, 55%)
     margin-top: 0.5em; 
     margin-bottom: 0.5em; 
-    font-size: 0.8em; /* Base font size */
+    font-size: 1.2em; /* Base font size */
     line-height: 1.5; 
 }
 
@@ -42,7 +42,7 @@ html, body {
     color: hsl(218, 44%, 22%);
     margin-top: 0.5em; 
     margin-bottom: 0.5em; 
-    font-size: 0.8em; /* Base font size */
+    font-size: 1.4em; /* Base font size */
     line-height: 1.5; 
     font-weight: bold;
 }
@@ -78,11 +78,11 @@ html, body {
     }
 
     .qr-text {
-        font-size: 0.9em; 
+        font-size: 1.2em; 
     }
 
     .qr-text-title {
-        font-size: 1em;
+        font-size: 1.5em;
     }
 
     .attribution {
