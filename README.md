@@ -69,7 +69,7 @@ Users should be able to:
 ### What I learned
 - Focusing on mobile dimensions first and working your way up from there (if needed).
 - How to set up github pages.
-- Thanks to feedback from @danielmrz-dev I also learned a bit about semantic markup, such as using <main> and <footer> instead of <div> tags, and the importance of h1-h6 tags besides font weight.
+- Thanks to feedback from @danielmrz-dev I also learned a bit about semantic markup, such as using main and footer tags instead of div tags, and the importance of h1-h6 tags.
 
 ## Useful resources
 
