@@ -1,4 +1,4 @@
-/* Base styles - Mobile first design */
+/* Base styles */
 html, body {
     margin: 0;
     padding: 0;
@@ -16,7 +16,7 @@ html, body {
     border-radius: 20px; 
     padding: 1em; /* Space inside the card */
     text-align: center;
-    max-width: 375px; /* Width for mobile */
+    max-width: 325px; 
     box-sizing: border-box; 
     margin: 0 1em; 
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); 
@@ -31,10 +31,10 @@ html, body {
 
 /* Text styles */
 .qr-text {
-    color: hsl(220, 15%, 55%)
+    color: hsl(219, 14%, 67%);
     margin-top: 0.5em; 
     margin-bottom: 0.5em; 
-    font-size: 1.1em; /* Base font size */
+    font-size: 1.1em; 
     line-height: 1.5; 
 }
 
@@ -42,7 +42,7 @@ html, body {
     color: hsl(218, 44%, 22%);
     margin-top: 0.5em; 
     margin-bottom: 0.5em; 
-    font-size: 1.4em; /* Base font size */
+    font-size: 1.4em;
     line-height: 1.5; 
     font-weight: bold;
 }
